@@ -21,6 +21,8 @@ This project was created to practice CSS animations, positioning, and JavaScript
 **This are the image of  the project**
 <img width="1335" height="578" alt="image" src="https://github.com/user-attachments/assets/30b35c8d-d38c-40d5-8bf7-a6380a1c270d" />
 
+<a href="https://drive.google.com/file/d/1In6LeeO_R3d26ZZJnH48DP-5UN16G5vk/view?usp=sharing">Video of the project</a>
+
 
 **Author**
 Rudra Prakash
